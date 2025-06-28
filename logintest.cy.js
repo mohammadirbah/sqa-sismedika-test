@@ -2,7 +2,7 @@
 
 ///<reference  types = "cypress"/>
 
-it("Login witn empty credentials", () => {
+it("Login with empty credentials", () => {
   cy.visit(
     "https://opensource-demo.orangehrmlive.com/web/index.php/auth/login"
   );
