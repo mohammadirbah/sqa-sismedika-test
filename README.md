@@ -59,3 +59,7 @@ masing-masing contohnya.
 ### Skenario boundary testing
 1. Input password dengan tepat 6 karakter (batas minimum) -> Diterima
 2. Input password dengan 21 karakter (jika batas maksimum adalah 20) -> Ditolak
+
+## Automation Testing (Bonus / Untuk Posisi Automation QA)
+![Screenshot 2025-06-28 140233](https://github.com/user-attachments/assets/bd0609ce-8234-4ac7-8ef3-8ce574bfca27)
+
